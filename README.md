@@ -28,4 +28,4 @@ Cada produto possui um método `priceTag()` que exibe as informações de forma 
 - `ImportedProduct` (subclasse com taxa adicional)
 - `Program` (classe principal com lógica de entrada e saída
 
-*Exercício baseado no curso do professor Nelio Alves (Udemy).*
+*Exercício baseado no curso do professor Nelio Alves.
